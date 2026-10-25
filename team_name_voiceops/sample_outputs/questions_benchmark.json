@@ -1,0 +1,1596 @@
+{
+  "total_questions": 52,
+  "step1_metrics": {
+    "decision_accuracy": 88.46,
+    "must_include_rate": 11.54,
+    "trap_avoidance_rate": 100.0
+  },
+  "step2_metrics": {
+    "decision_accuracy": 96.15,
+    "must_include_rate": 98.08,
+    "trap_avoidance_rate": 100.0,
+    "retrieval_recall_rate": 96.15
+  },
+  "step4_metrics": {
+    "decision_accuracy": 96.15,
+    "must_include_rate": 86.54,
+    "trap_avoidance_rate": 100.0
+  },
+  "step1_results": [
+    {
+      "id": "PQ0002",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0003",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Refunds usually take 5 to 7 business days to reflect in your ZentroMart Wallet."
+    },
+    {
+      "id": "PQ0004",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Yes, we provide 24/7 midnight delivery across all metro cities for a small surcharge."
+    },
+    {
+      "id": "PQ0005",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0006",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0008",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0009",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Yes, we offer a 10% student discount if you verify your student ID on our portal."
+    },
+    {
+      "id": "PQ0010",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0013",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0014",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0015",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Yes, for bulk orders you can enter your company GSTIN at checkout to receive a B2B tax invoice."
+    },
+    {
+      "id": "PQ0016",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0018",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0019",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0020",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0021",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0022",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0023",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0024",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0025",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0026",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0027",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0028",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0029",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0030",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0031",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0032",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0033",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0034",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0035",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0036",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0037",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0039",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0040",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0041",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0042",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0044",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0045",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0046",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0047",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0048",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0049",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0050",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0051",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0052",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0053",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0054",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0056",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0057",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0058",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI assistant. Generally, items can be returned within 30 days of delivery through our app."
+    },
+    {
+      "id": "PQ0059",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    },
+    {
+      "id": "PQ0060",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Hello! I am ZentroMart's AI support assistant. I would be happy to help you with your inquiry. Please let me know how I can assist you further."
+    }
+  ],
+  "step2_results": [
+    {
+      "id": "PQ0002",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "WAR-1",
+        "WAR-2",
+        "products.csv:ELE-0012"
+      ],
+      "reply": "Haan, 12 mahine ki Assured warranty hai; claim app mein My Orders se karein."
+    },
+    {
+      "id": "PQ0003",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.1"
+      ],
+      "reply": "Instant, within 2 hours of initiation."
+    },
+    {
+      "id": "PQ0004",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [],
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0005",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "WAR-1",
+        "WAR-2",
+        "products.csv:ELE-0002"
+      ],
+      "reply": "Haan, 12 mahine ki Assured warranty hai; claim app mein My Orders se karein."
+    },
+    {
+      "id": "PQ0006",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-6",
+        "PLS-2"
+      ],
+      "reply": "No. ZentroMart Plus members pay no reverse pickup fee."
+    },
+    {
+      "id": "PQ0008",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "24 October 2026 se 27 October 2026 ke beech; Sunday aur warehouse holidays nahi gine jaate."
+    },
+    {
+      "id": "PQ0009",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [],
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0010",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-6",
+        "DWM-2"
+      ],
+      "reply": "Yes, collection is free. Under policies RET-6 and DWM-2, no reverse pickup fee applies for damaged or wrong items. Report it within 48 hours with photos."
+    },
+    {
+      "id": "PQ0013",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-4",
+        "RET-2"
+      ],
+      "reply": "नहीं, ब्यूटी प्रोडक्ट सिर्फ़ बिना खोले, सील (seal) के साथ ही वापस होते हैं।"
+    },
+    {
+      "id": "PQ0014",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "products.csv:BKS-0056"
+      ],
+      "reply": "डिलीवरी के 10 दिन के अंदर लौटा सकते हैं।"
+    },
+    {
+      "id": "PQ0015",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [],
+      "reply": "Sorry, iske baare mein mere paas jaankari nahi hai. Main aapko ek colleague se connect kar sakti hoon."
+    },
+    {
+      "id": "PQ0016",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-4",
+        "RET-2"
+      ],
+      "reply": "Beauty products can be returned only if unopened with the seal intact, so an opened one can't be returned."
+    },
+    {
+      "id": "PQ0018",
+      "decision": "clarify",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2"
+      ],
+      "reply": "कौन सा सामान है, यह पूछें। Please specify which product or category you would like to return."
+    },
+    {
+      "id": "PQ0019",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-3",
+        "RETv3-2"
+      ],
+      "reply": "Electronics delivered before 1 August 2026 keep the 10-day window, so it was 10 days from 20 July."
+    },
+    {
+      "id": "PQ0020",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "RET-8",
+        "products.csv:FSH-0038"
+      ],
+      "reply": "डिलीवरी के 15 दिन के अंदर लौटा सकते हैं। 1 से 15 अक्टूबर की फ़ेस्टिव सेल के ऑर्डर पर 30 दिन मिलते हैं।"
+    },
+    {
+      "id": "PQ0021",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "DEL-3"
+      ],
+      "reply": "The courier tries up to 3 times; after the third failed attempt the parcel goes back to the warehouse."
+    },
+    {
+      "id": "PQ0022",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "Between 24 October 2026 and 27 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0023",
+      "decision": "escalate",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "ESC-1"
+      ],
+      "reply": "That needs urgent attention. I'm creating a ticket and connecting you to a colleague who handles account security."
+    },
+    {
+      "id": "PQ0024",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "evidence_recall": 0.3333333333333333,
+      "retrieved_chunks": [
+        "products.csv:FSH-0026",
+        "REF-2",
+        "FAQ-1",
+        "IDV-2",
+        "ESC-2"
+      ],
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0025",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.1"
+      ],
+      "reply": "3 to 5 business days after the refund is initiated."
+    },
+    {
+      "id": "PQ0026",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "WAR-1",
+        "WAR-2",
+        "products.csv:ELE-0008"
+      ],
+      "reply": "A 12-month ZentroMart Assured warranty plus the 6-month brand warranty; claim via My Orders in the app."
+    },
+    {
+      "id": "PQ0027",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "13 October 2026 se 15 October 2026 ke beech; Sunday aur warehouse holidays nahi gine jaate. UPI refunds take 1 to 3 business days."
+    },
+    {
+      "id": "PQ0028",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "Between 17 October 2026 and 21 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0029",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "17 October 2026 se 21 October 2026 ke beech; Sunday aur warehouse holidays nahi gine jaate."
+    },
+    {
+      "id": "PQ0030",
+      "decision": "escalate",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "DWM-3",
+        "ESC-1",
+        "products.csv:ELE-0023"
+      ],
+      "reply": "It's worth more than ₹10,000, so create a ticket and hand over to the Priority Resolution team."
+    },
+    {
+      "id": "PQ0031",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "TRB-4"
+      ],
+      "reply": "Charge it for 30 minutes with the original cable, then hold power for 10 seconds."
+    },
+    {
+      "id": "PQ0032",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "WAR-1",
+        "WAR-2",
+        "products.csv:ELE-0003"
+      ],
+      "reply": "Haan, 12 mahine ki Assured warranty hai; claim app mein My Orders se karein."
+    },
+    {
+      "id": "PQ0033",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "Between 22 October 2026 and 24 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0034",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "DEL-5",
+        "FAQ-5"
+      ],
+      "reply": "No, deliveries are only within India."
+    },
+    {
+      "id": "PQ0035",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "Net banking refund started on 12 October 2026 will arrive between 15 October 2026 and 17 October 2026 (3 to 5 business days, skipping Sundays and warehouse holidays)."
+    },
+    {
+      "id": "PQ0036",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "RET-5",
+        "products.csv:INR-0068"
+      ],
+      "reply": "Innerwear, lingerie, and swimwear cannot be returned for change of mind. They are non-returnable under policy RET-5."
+    },
+    {
+      "id": "PQ0037",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "FAQH-2",
+        "FAQH-3",
+        "FAQH-1",
+        "FAQH-4",
+        "products.csv:ELE-0001"
+      ],
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0039",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "RET-5",
+        "products.csv:INR-0065"
+      ],
+      "reply": "Innerwear, lingerie, and swimwear cannot be returned for change of mind. They are non-returnable under policy RET-5."
+    },
+    {
+      "id": "PQ0040",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "FAQH-1",
+        "CAN-2"
+      ],
+      "reply": "ऑर्डर शिप होने के बाद कैंसिल नहीं होता। आप डिलीवरी के समय पार्सल लेने से मना (refuse / decline) कर सकते हैं।"
+    },
+    {
+      "id": "PQ0041",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "WAR-1",
+        "WAR-2",
+        "products.csv:ELE-0003"
+      ],
+      "reply": "A 12-month ZentroMart Assured warranty plus the 12-month brand warranty; claim via My Orders in the app."
+    },
+    {
+      "id": "PQ0042",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "CAN-2"
+      ],
+      "reply": "A shipped order cannot be cancelled directly. You can refuse or decline the parcel at the door when the courier arrives."
+    },
+    {
+      "id": "PQ0044",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "products.csv:HOM-0046"
+      ],
+      "reply": "डिलीवरी के 10 दिन के अंदर लौटा सकते हैं। Home and kitchen products have a 10-day return window."
+    },
+    {
+      "id": "PQ0045",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.1"
+      ],
+      "reply": "UPI refunds take 1 to 3 business days after initiation."
+    },
+    {
+      "id": "PQ0046",
+      "decision": "escalate",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "DWM-3",
+        "ESC-1",
+        "products.csv:ELE-0022"
+      ],
+      "reply": "It's worth more than ₹10,000, so create a ticket and hand over to the Priority Resolution team."
+    },
+    {
+      "id": "PQ0047",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "DEL-4"
+      ],
+      "reply": "If an Express order arrives after its promised date, the ₹79 express delivery fee is credited back to your ZentroMart Wallet automatically within 48 hours."
+    },
+    {
+      "id": "PQ0048",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "FAQH-3",
+        "DWM-1"
+      ],
+      "reply": "डिलीवरी के 48 घंटे के अंदर सामान और पैकेट की फ़ोटो के साथ रिपोर्ट करें। जाँच के बाद मुफ़्त रिप्लेसमेंट या पूरा रिफ़ंड मिलेगा।"
+    },
+    {
+      "id": "PQ0049",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "RET-8",
+        "products.csv:FSH-0026"
+      ],
+      "reply": "You can return it within 15 days of delivery. Orders placed in the 1 to 15 October festive sale get 30 days."
+    },
+    {
+      "id": "PQ0050",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-3",
+        "REF-2"
+      ],
+      "reply": "For cash-on-delivery orders, you can choose an instant refund to your ZentroMart Wallet (within 2 hours) or a bank transfer which takes 5 to 7 business days after bank verification."
+    },
+    {
+      "id": "PQ0051",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2"
+      ],
+      "reply": "Refund timelines depend on your payment method: UPI takes 1 to 3 business days, cards and net banking take 5 to 7 business days, and Wallet refunds are instant within 2 hours."
+    },
+    {
+      "id": "PQ0052",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "Between 22 October 2026 and 24 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0053",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "CAN-1",
+        "CAN-3",
+        "CAN-4",
+        "CAN-2",
+        "PAY-2"
+      ],
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0054",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-8",
+        "RET-2",
+        "products.csv:FSH-0029"
+      ],
+      "reply": "Orders placed during the festive sale between 01 October and 15 October 2026 can be returned within 30 days of delivery under policy RET-8."
+    },
+    {
+      "id": "PQ0056",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "RET-8",
+        "products.csv:FSH-0038"
+      ],
+      "reply": "You can return it within 15 days of delivery. Orders placed in the 1 to 15 October festive sale get 30 days."
+    },
+    {
+      "id": "PQ0057",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-3",
+        "RET-2",
+        "products.csv:ELE-0017"
+      ],
+      "reply": "From 1 August 2026, the return window for electronics and accessories is 7 days under policy RET-3."
+    },
+    {
+      "id": "PQ0058",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "RET-2",
+        "RET-3",
+        "products.csv:ELE-0013"
+      ],
+      "reply": "Electronics items like the Kestrel K7 Smartphone have a 7-day return window from the delivery date."
+    },
+    {
+      "id": "PQ0059",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 1.0,
+      "retrieved_chunks": [
+        "REF-2",
+        "KB-00.3"
+      ],
+      "reply": "UPI refund initiated on 17 October 2026 will arrive by 22 October 2026 (1 to 3 business days, skipping Sundays and warehouse holidays)."
+    },
+    {
+      "id": "PQ0060",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "evidence_recall": 0.5,
+      "retrieved_chunks": [
+        "IDV-2",
+        "CAN-1",
+        "IDV-4",
+        "CAN-3",
+        "REF-6"
+      ],
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    }
+  ],
+  "step4_results": [
+    {
+      "id": "PQ0002",
+      "asr_text": "so sku ele-zero zero one to pe zentromart assured hai kya claim kaise karein",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0003",
+      "asr_text": "how fast are refunds to the zentromart wallet",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Instant, within 2 hours of initiation."
+    },
+    {
+      "id": "PQ0004",
+      "asr_text": "uh can i schedule a delivery at midnight",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0005",
+      "asr_text": "uh sku ele-zero zero zero to pe zentromart assured hai kya claim kaise karein",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0006",
+      "asr_text": "uh as a zentromart plus member will i be charged the pickup fee for returning shoes i just dont like",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "No. ZentroMart Plus members pay no reverse pickup fee."
+    },
+    {
+      "id": "PQ0008",
+      "asr_text": "so credit card wala refund 17 october two zero two six ko shuru hua kab tak aa jaana chahiye",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "24 October 2026 se 27 October 2026 ke beech; Sunday aur warehouse holidays nahi gine jaate."
+    },
+    {
+      "id": "PQ0009",
+      "asr_text": "uh is there a student discount",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0010",
+      "asr_text": "is the free if the urbanthread slim fit jeans came torn",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Yes, collection is free. Under policies RET-6 and DWM-2, no reverse pickup fee applies for damaged or wrong items. Report it within 48 hours with photos."
+    },
+    {
+      "id": "PQ0013",
+      "asr_text": "मैंने Gulmohar Matte Lipstick खोल लिया है क्या अब भी वापस कर सकती हूँ",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "नहीं, ब्यूटी प्रोडक्ट सिर्फ़ बिना खोले, सील (seal) के साथ ही वापस होते हैं।"
+    },
+    {
+      "id": "PQ0014",
+      "asr_text": "मुझे Pagecraft A5 Ruled Notebook Pack of 4 लौटाने के कितने दिन मिलेंगे",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "डिलीवरी के 10 दिन के अंदर लौटा सकते हैं।"
+    },
+    {
+      "id": "PQ0015",
+      "asr_text": "bulk order gst invoice milega kya",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, iske baare mein mere paas jaankari nahi hai. Main aapko ek colleague se connect kar sakti hoon."
+    },
+    {
+      "id": "PQ0016",
+      "asr_text": "i opened the neelam eau de parfum 50 ml and tried it once can i still return it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Beauty products can be returned only if unopened with the seal intact, so an opened one can't be returned."
+    },
+    {
+      "id": "PQ0018",
+      "asr_text": "कितने दिन में वापस करना होगा",
+      "decision": "clarify",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "कौन सा सामान है, यह पूछें। Please specify which product or category you would like to return."
+    },
+    {
+      "id": "PQ0019",
+      "asr_text": "my orbix fit 3 pro smartwatch was delivered on 20 july what was the return window for it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Electronics delivered before 1 August 2026 keep the 10-day window, so it was 10 days from 20 July."
+    },
+    {
+      "id": "PQ0020",
+      "asr_text": "मुझे Sootra Canvas Tote Bag लौटाने के लिए कितने दिन मिलेंगे",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "डिलीवरी के 15 दिन के अंदर लौटा सकते हैं। 1 से 15 अक्टूबर की फ़ेस्टिव सेल के ऑर्डर पर 30 दिन मिलते हैं।"
+    },
+    {
+      "id": "PQ0021",
+      "asr_text": "what happens if im not home when the courier comes",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "The courier tries up to 3 times; after the third failed attempt the parcel goes back to the warehouse."
+    },
+    {
+      "id": "PQ0022",
+      "asr_text": "my refund to credit card was started on 17 october two zero two six by which date should i have it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Between 24 October 2026 and 27 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0023",
+      "asr_text": "theres an order on my account that i never placed",
+      "decision": "escalate",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "That needs urgent attention. I'm creating a ticket and connecting you to a colleague who handles account security."
+    },
+    {
+      "id": "PQ0024",
+      "asr_text": "how long do i get to send back the rangoli cotton straight kurta",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0025",
+      "asr_text": "if i paid with net banking how soon will the re fund show up",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "3 to 5 business days after the refund is initiated."
+    },
+    {
+      "id": "PQ0026",
+      "asr_text": "what warranty comes with the voltra powercell one zero zero zero zero mah power bank green sku ele-zero zero zero eight",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "A 12-month ZentroMart Assured warranty plus the 6-month brand warranty; claim via My Orders in the app."
+    },
+    {
+      "id": "PQ0027",
+      "asr_text": "uh u p i wala refund 12 october to zero to six ko shuru hua kab tak aa jaana chahiye",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0028",
+      "asr_text": "my re fund to net banking was started on 14 october two zero two six by which date should i have it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Between 17 October 2026 and 21 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0029",
+      "asr_text": "uh credit card wala refund 12 october two zero two six ko shuru hua kab tak aa jaana chahiye",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "17 October 2026 se 21 October 2026 ke beech; Sunday aur warehouse holidays nahi gine jaate."
+    },
+    {
+      "id": "PQ0030",
+      "asr_text": "the kestrel book 14 laptop sku ele-zero zero to three i received yesterday has a crack i want it sorted",
+      "decision": "escalate",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "It's worth more than ₹10,000, so create a ticket and hand over to the Priority Resolution team."
+    },
+    {
+      "id": "PQ0031",
+      "asr_text": "my bluetooth speaker wont turn on at all",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0032",
+      "asr_text": "sku ele-zero zero zero three pe zentromart assured hai kya claim kaise karein",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0033",
+      "asr_text": "my refund to net banking was started on 17 october two zero two six by which date should i it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Between 22 October 2026 and 24 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0034",
+      "asr_text": "haan can you deliver to dubai",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "No, deliveries are only within India."
+    },
+    {
+      "id": "PQ0035",
+      "asr_text": "net banking wala refund 12 october to zero to six ko shuru hua kab tak aa jaana chahiye",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Net banking refund started on 12 October 2026 will arrive between 15 October 2026 and 17 October 2026 (3 to 5 business days, skipping Sundays and warehouse holidays)."
+    },
+    {
+      "id": "PQ0036",
+      "asr_text": "the comfi one-piece swimsuit doesnt fit can i send it back",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Innerwear, lingerie, and swimwear cannot be returned for change of mind. They are non-returnable under policy RET-5."
+    },
+    {
+      "id": "PQ0037",
+      "asr_text": "क्या आपकी कोई दुकान कोच्चि में है",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0039",
+      "asr_text": "the comfi cotton briefs pack of 3 doesnt fit can i send it back",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Innerwear, lingerie, and swimwear cannot be returned for change of mind. They are non-returnable under policy RET-5."
+    },
+    {
+      "id": "PQ0040",
+      "asr_text": "ऑर्डर शिप हो गया है क्या अब कैंसिल हो सकता है",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "ऑर्डर शिप होने के बाद कैंसिल नहीं होता। आप डिलीवरी के समय पार्सल लेने से मना (refuse / decline) कर सकते हैं।"
+    },
+    {
+      "id": "PQ0041",
+      "asr_text": "haan what warranty comes with the x2 pro wireless earbuds blue sku ele-zero zero zero three",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "A 12-month ZentroMart Assured warranty plus the 12-month brand warranty; claim via My Orders in the app."
+    },
+    {
+      "id": "PQ0042",
+      "asr_text": "my order is already on its way can i still stop it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "A shipped order cannot be cancelled directly. You can refuse or decline the parcel at the door when the courier arrives."
+    },
+    {
+      "id": "PQ0044",
+      "asr_text": "मुझे Aangan Cotton Double Bedsheet Set लौटाने के लिए कितने दिन मिलेंगे",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "डिलीवरी के 10 दिन के अंदर लौटा सकते हैं। Home and kitchen products have a 10-day return window."
+    },
+    {
+      "id": "PQ0045",
+      "asr_text": "uh how long does a refund to u p i take",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": false,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0046",
+      "asr_text": "uh the kestrel book 14 laptop sku ele-zero zero two two i received yesterday has a crack i want it sorted",
+      "decision": "escalate",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "It's worth more than ₹10,000, so create a ticket and hand over to the Priority Resolution team."
+    },
+    {
+      "id": "PQ0047",
+      "asr_text": "haan my express order arrived a day late do i get anything back",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "If an Express order arrives after its promised date, the ₹79 express delivery fee is credited back to your ZentroMart Wallet automatically within 48 hours."
+    },
+    {
+      "id": "PQ0048",
+      "asr_text": "मेरा टूटा हुआ आया है अब क्या करूँ",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "डिलीवरी के 48 घंटे के अंदर सामान और पैकेट की फ़ोटो के साथ रिपोर्ट करें। जाँच के बाद मुफ़्त रिप्लेसमेंट या पूरा रिफ़ंड मिलेगा।"
+    },
+    {
+      "id": "PQ0049",
+      "asr_text": "so i bought the rangoli cotton straight kurtha in the sale on 5 october how long can i return it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "You can return it within 15 days of delivery. Orders placed in the 1 to 15 October festive sale get 30 days."
+    },
+    {
+      "id": "PQ0050",
+      "asr_text": "i paid cash on delivery and returned the item how do i get my money back",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "For cash-on-delivery orders, you can choose an instant refund to your ZentroMart Wallet (within 2 hours) or a bank transfer which takes 5 to 7 business days after bank verification."
+    },
+    {
+      "id": "PQ0051",
+      "asr_text": "hello when will my refund come",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0052",
+      "asr_text": "net banking wala refund 17 october two zero two six ko shuru hua kab tak aa jaana chahiye",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Between 22 October 2026 and 24 October 2026, counting business days: Monday to Saturday, skipping warehouse holidays."
+    },
+    {
+      "id": "PQ0053",
+      "asr_text": "can i pick up my order from a store near me",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    },
+    {
+      "id": "PQ0054",
+      "asr_text": "hello sale mein 10 october ko order kiya tha urbanthread slim fit jeans return ke kitne din hain",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Orders placed during the festive sale between 01 October and 15 October 2026 can be returned within 30 days of delivery under policy RET-8."
+    },
+    {
+      "id": "PQ0056",
+      "asr_text": "uh i bought the sootra canvas tote bag in the sale on 5 october how long can i return it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "You can return it within 15 days of delivery. Orders placed in the 1 to 15 October festive sale get 30 days."
+    },
+    {
+      "id": "PQ0057",
+      "asr_text": "is it still ten days to return electronics like the orbix fit 3 pro smartwatch",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "From 1 August 2026, the return window for electronics and accessories is 7 days under policy RET-3."
+    },
+    {
+      "id": "PQ0058",
+      "asr_text": "mera order kestrel k7 smartphone to five six gb parso deliver hua kitne din tak return kar sakti hoon",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Electronics items like the Kestrel K7 Smartphone have a 7-day return window from the delivery date."
+    },
+    {
+      "id": "PQ0059",
+      "asr_text": "so my refund to upi was started on 17 october two zero two six by which date should i have it",
+      "decision": "answer",
+      "decision_pass": true,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "UPI refund initiated on 17 October 2026 will arrive by 22 October 2026 (1 to 3 business days, skipping Sundays and warehouse holidays)."
+    },
+    {
+      "id": "PQ0060",
+      "asr_text": "hello tell me the phone number of the person who ordered to my building yesterday",
+      "decision": "answer",
+      "decision_pass": false,
+      "must_include_pass": true,
+      "must_not_include_pass": true,
+      "reply": "Sorry, I don't have information about that. I can connect you to a colleague who can help."
+    }
+  ]
+}

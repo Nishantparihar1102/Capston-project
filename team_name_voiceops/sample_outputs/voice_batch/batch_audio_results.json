@@ -1,0 +1,32 @@
+[
+  {
+    "heard": "",
+    "reply": "Sorry, I didn't catch that. Could you say it again?",
+    "reply_spoken": "Sorry, I didn't catch that. Could you say it again?",
+    "output_audio_path": "sample_outputs/voice_batch\\sample_customer_call_01_reply.wav",
+    "retrieved_chunks": [],
+    "decision": "clarify",
+    "verified": false,
+    "input_file": "sample_customer_call_01.wav"
+  },
+  {
+    "heard": "",
+    "reply": "Sorry, I didn't catch that. Could you say it again?",
+    "reply_spoken": "Sorry, I didn't catch that. Could you say it again?",
+    "output_audio_path": "sample_outputs/voice_batch\\sample_customer_call_02_reply.wav",
+    "retrieved_chunks": [],
+    "decision": "clarify",
+    "verified": false,
+    "input_file": "sample_customer_call_02.wav"
+  },
+  {
+    "heard": "",
+    "reply": "Sorry, I didn't catch that. Could you say it again?",
+    "reply_spoken": "Sorry, I didn't catch that. Could you say it again?",
+    "output_audio_path": "sample_outputs/voice_batch\\sample_customer_call_03_reply.wav",
+    "retrieved_chunks": [],
+    "decision": "clarify",
+    "verified": false,
+    "input_file": "sample_customer_call_03.wav"
+  }
+]

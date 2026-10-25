@@ -1,0 +1,5 @@
+metric,step1_baseline,step2_grounded_rag,step4_voice_asr
+decision_accuracy_pct,88.46,96.15,96.15
+must_include_rate_pct,11.54,98.08,86.54
+trap_avoidance_rate_pct,100.0,100.0,100.0
+retrieval_recall_rate_pct,0.0,96.15,96.15
