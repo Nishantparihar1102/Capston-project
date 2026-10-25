@@ -149,8 +149,9 @@ def build_pdf():
     # =========================================================================
     story.append(Paragraph("VoiceOps 2026: ZentroMart AI Customer Support Agent", title_style))
     story.append(Paragraph(
-        "<b>Course:</b> GenAI x LLM Mastery (IIT Guwahati × Gnani.ai) &nbsp;|&nbsp; <b>Ref Date:</b> 2026-10-20 &nbsp;|&nbsp; "
-        "<b>GitHub:</b> <a href=\"https://github.com/Nishantparihar1102/Capston-project\" color=\"#2B6CB0\"><u>github.com/Nishantparihar1102/Capston-project</u></a>",
+        "<b>Course:</b> GenAI x LLM Mastery (IIT Guwahati × Gnani.ai) &nbsp;|&nbsp; <b>Ref Date:</b> 2026-10-20<br/>"
+        "<b>GitHub:</b> <a href=\"https://github.com/Nishantparihar1102/Capston-project\" color=\"#2B6CB0\"><u>github.com/Nishantparihar1102/Capston-project</u></a> &nbsp;|&nbsp; "
+        "<b>Live Demo:</b> <a href=\"https://zentromart-voiceops.onrender.com/\" color=\"#2B6CB0\"><u>zentromart-voiceops.onrender.com</u></a>",
         subtitle_style
     ))
     story.append(HRFlowable(width="100%", thickness=1.5, color=primary_color, spaceAfter=8))
@@ -406,13 +407,16 @@ def build_pdf():
         body_style
     ))
 
-    # Project Repository Callout Box
+    # Project Repository & Live Demo Callout Box
     repo_data = [
         [
             Paragraph(
-                "<b>🔗 Official Public Codebase &amp; Submission Artifacts:</b><br/>"
-                "All source code, prompts, benchmarks, evaluation datasets, and sample outputs are published and accessible at:<br/>"
-                "<a href=\"https://github.com/Nishantparihar1102/Capston-project\" color=\"#2B6CB0\"><b><u>https://github.com/Nishantparihar1102/Capston-project</u></b></a>",
+                "<b>🔗 Official Public Codebase &amp; Live Cloud Deployment:</b><br/>"
+                "• <b>Live Web Demo (Render):</b> "
+                "<a href=\"https://zentromart-voiceops.onrender.com/\" color=\"#2B6CB0\"><b><u>https://zentromart-voiceops.onrender.com/</u></b></a><br/>"
+                "• <b>GitHub Repository:</b> "
+                "<a href=\"https://github.com/Nishantparihar1102/Capston-project\" color=\"#2B6CB0\"><b><u>https://github.com/Nishantparihar1102/Capston-project</u></b></a><br/>"
+                "<i>Includes end-to-end Python source, RAG index, Gnani STT/TTS pipeline, automated benchmarks, and evaluation logs.</i>",
                 body_style
             )
         ]

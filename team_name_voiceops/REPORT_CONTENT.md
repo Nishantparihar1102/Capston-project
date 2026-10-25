@@ -4,6 +4,7 @@
 **Organizers:** Consulting & Analytics Club, IIT Guwahati × Gnani.ai  
 **Reference Dataset Date:** 20 October 2026 (`2026-10-20`)  
 **GitHub Repository:** [https://github.com/Nishantparihar1102/Capston-project](https://github.com/Nishantparihar1102/Capston-project)  
+**Live Web Demo (Render):** [https://zentromart-voiceops.onrender.com/](https://zentromart-voiceops.onrender.com/)  
 **Architecture:** Hybrid BM25/Dense RAG + Identity-Gated Multi-Turn Agent + Gnani.ai Indic STT/TTS  
 
 ---
@@ -213,6 +214,7 @@ Our architecture is directly mapped to the four weeks of instruction from C&A Cl
 ---
 
 ### 8.1 Official Code Repository & Submission Artifacts
+- **Live Web Demo (Render):** [https://zentromart-voiceops.onrender.com/](https://zentromart-voiceops.onrender.com/)
 - **Repository URL:** [https://github.com/Nishantparihar1102/Capston-project](https://github.com/Nishantparihar1102/Capston-project)
 - **Status:** Public & Openly Accessible
 - **Artifacts Included:** Complete Python source code, RAG hybrid retriever, Gnani STT/TTS pipeline, automated 96-turn benchmark suite, and compiled 4-page submission PDF.
