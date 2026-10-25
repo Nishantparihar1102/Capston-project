@@ -148,7 +148,11 @@ def build_pdf():
     # PAGE 1: Executive Summary, System Foundations & Precedence Rules
     # =========================================================================
     story.append(Paragraph("VoiceOps 2026: ZentroMart AI Customer Support Agent", title_style))
-    story.append(Paragraph("<b>Course:</b> From Tokens to Transformers: GenAI x LLM Mastery &nbsp;|&nbsp; <b>IIT Guwahati × Gnani.ai</b> &nbsp;|&nbsp; <b>Ref Date:</b> 2026-10-20", subtitle_style))
+    story.append(Paragraph(
+        "<b>Course:</b> GenAI x LLM Mastery (IIT Guwahati × Gnani.ai) &nbsp;|&nbsp; <b>Ref Date:</b> 2026-10-20 &nbsp;|&nbsp; "
+        "<b>GitHub:</b> <a href=\"https://github.com/Nishantparihar1102/Capston-project\" color=\"#2B6CB0\"><u>github.com/Nishantparihar1102/Capston-project</u></a>",
+        subtitle_style
+    ))
     story.append(HRFlowable(width="100%", thickness=1.5, color=primary_color, spaceAfter=8))
 
     story.append(Paragraph("1. Executive Summary & Problem Formulation", h1_style))
@@ -401,6 +405,30 @@ def build_pdf():
         "sentiment scores, and conversation transcripts pre-populated for human agents.",
         body_style
     ))
+
+    # Project Repository Callout Box
+    repo_data = [
+        [
+            Paragraph(
+                "<b>🔗 Official Public Codebase &amp; Submission Artifacts:</b><br/>"
+                "All source code, prompts, benchmarks, evaluation datasets, and sample outputs are published and accessible at:<br/>"
+                "<a href=\"https://github.com/Nishantparihar1102/Capston-project\" color=\"#2B6CB0\"><b><u>https://github.com/Nishantparihar1102/Capston-project</u></b></a>",
+                body_style
+            )
+        ]
+    ]
+    t_repo = Table(repo_data, colWidths=[504])
+    t_repo.setStyle(TableStyle([
+        ('BACKGROUND', (0, 0), (-1, -1), colors.HexColor("#EBF8FF")),
+        ('BORDER', (0, 0), (-1, -1), 1, secondary_color),
+        ('TOPPADDING', (0, 0), (-1, -1), 4),
+        ('BOTTOMPADDING', (0, 0), (-1, -1), 4),
+        ('LEFTPADDING', (0, 0), (-1, -1), 8),
+        ('RIGHTPADDING', (0, 0), (-1, -1), 8),
+        ('VALIGN', (0, 0), (-1, -1), 'MIDDLE'),
+    ]))
+    story.append(Spacer(1, 4))
+    story.append(t_repo)
 
     doc.build(story, canvasmaker=NumberedCanvas)
     print(f"Successfully compiled 4-page report: {PDF_OUTPUT_PATH}")
