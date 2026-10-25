@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: zentromart-voiceops
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python team_name_voiceops/app.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GNANI_API_KEY
+        sync: false
